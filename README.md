@@ -2,6 +2,8 @@
 
 El proyecto es un ejemplo de una aplicacion de tareas, donde se puede crear, editar, eliminar y listar tareas. El proyecto esta desarrollado con PHP, AJAX, MySQL y Bootstrap.
 
+> Nota!: Este proyecto es una guia de referencia con fines educativos, no es de mi propiedad.
+
 
 ## Detalles del Autor
 
